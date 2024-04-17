@@ -19,6 +19,10 @@ were merged on [GitHub](https://github.com/scala/scala).
 ### Known Issues
 Before reporting a bug, please have a look at these [known issues](https://issues.scala-lang.org/issues/?filter=12402).
 
+### Known Issues
+Before reporting a bug, please have a look at these [known issues](https://issues.scala-lang.org/issues/?filter=12402).
+
+
 ### Scala IDE for Eclipse
 The Scala IDE with this release built right in is available through the following update-site:
 
