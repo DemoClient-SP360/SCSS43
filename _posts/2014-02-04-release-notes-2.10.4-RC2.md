@@ -14,6 +14,9 @@ In total,
 [39 RC1 pull requests](https://github.com/scala/scala/issues?milestone=22&state=closed) and [12 RC2 pull requests](https://github.com/scala/scala/issues?milestone=28&state=closed)
 were merged on [GitHub](https://github.com/scala/scala).
 
+In total, 
+[39 RC1 pull requests](https://github.com/scala/scala/issues?milestone=22&state=closed) and [12 RC2 pull requests](https://github.com/scala/scala/issues?milestone=28&state=closed)
+were merged on [GitHub](https://github.com/scala/scala).
 <!--break-->
 
 ### Known Issues
