@@ -8,6 +8,8 @@ If no serious blocking issues are found this will become the final 2.10.4 versio
 
 The release is available for download from [scala-lang.org](https://scala-lang.org/download/2.10.4-RC2.html) or from [Maven Central](https://search.maven.org/#search%7Cga%7C1%7Cg%3Aorg.scala-lang%20AND%20v%3A2.10.4-RC2).
 
+The release is available for download from [scala-lang.org](https://scala-lang.org/download/2.10.4-RC2.html) or from [Maven Central](https://search.maven.org/#search%7Cga%7C1%7Cg%3Aorg.scala-lang%20AND%20v%3A2.10.4-RC2).
+
 The Scala team and contributors [fixed 23 issues since 2.10.3](https://issues.scala-lang.org/issues/?filter=12401)!
 
 In total, 
